@@ -1,0 +1,1 @@
+# Application and Evaluation of Siamese Neural Networks with Contrastive and Triplet Loss Functions in a Signature Verification System
