@@ -382,7 +382,6 @@ def main():
             mode='min',
             factor=config.LR_FACTOR,
             patience=config.LR_PATIENCE,
-            verbose=True
         )
     elif config.LR_SCHEDULER == 'step':
         scheduler = optim.lr_scheduler.StepLR(
